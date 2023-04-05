@@ -8,6 +8,7 @@ Alguns conceitos aprendidos durante a aula
 - Estruturando um formulario em HTML e CSS;
 - Uso de tags HTML;
 - Conceitos de CSS;
+- Validações utilizando CSS;
 - Posicionamento e alinhamento de elementos na tela;
 - Aplicando fontes customizadas;
 - Espaçamentos.
